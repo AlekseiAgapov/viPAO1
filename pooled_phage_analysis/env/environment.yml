@@ -1,0 +1,18 @@
+name: phage-pools
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python>=3.10
+  - pandas
+  - matplotlib
+  - seaborn
+  - nanoplot=1.46.2
+  - chopper=0.12.0
+  - minimap2=2.30
+  - samtools=1.23
+  - flye=2.9.6
+  - seqkit=2.13.0
+  - genomad=1.12.0
+  - checkv=1.0.3
+  - mamba

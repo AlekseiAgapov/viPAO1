@@ -1,0 +1,9 @@
+name: breseq-wgs
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - breseq=0.40.1
+  - bowtie2
+  - samtools
+  - r-base
